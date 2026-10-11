@@ -1,0 +1,1 @@
+# genpark-dynamic-landing-page-personalization-and-ab-optimizer-skill\n\nDynamically tailors hero copy, social proof, and CTA variants based on visitor UTM referrer and ICP segment.\n\n100% Python Standard Library implementation with zero external dependencies.
